@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<root>
+	<item type="dict">
+		<status type="str">001</status>
+		<message type="str">success</message>
+		<data type="dict">
+			<title type="dict">
+				<id type="int">1</id>
+				<name type="str">test</name>
+			</title>
+			<products type="list">
+				<item type="dict">
+					<name type="str">iphoneX</name>
+					<price type="float">9999.9936874465</price>
+					<count type="int">2000</count>
+				</item>
+				<item type="dict">
+					<name type="str">特斯拉</name>
+					<price type="int">1000000</price>
+					<count type="int">123</count>
+				</item>
+			</products>
+		</data>
+	</item>
+	<item type="dict">
+		<status type="str">002</status>
+		<message type="str">fail</message>
+		<data type="dict">
+			<title type="dict">
+				<id type="int">2</id>
+				<name type="str">text</name>
+			</title>
+			<products type="list">
+				<item type="dict">
+					<name type="str">iphoneXs</name>
+					<price type="int">8999</price>
+					<count type="int">3000</count>
+				</item>
+				<item type="dict">
+					<name type="str">宝马</name>
+					<price type="int">9999998</price>
+					<count type="int">456</count>
+				</item>
+			</products>
+		</data>
+	</item>
+</root>
