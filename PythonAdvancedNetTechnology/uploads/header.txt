@@ -1,0 +1,13 @@
+{'Accept-Ranges': 'bytes',
+'Cache-Control': 'no-cache',
+'Connection': 'Keep-Alive',
+'Content-Length': '14615',
+'Content-Type': 'text/html',
+'Date': 'Tue, 11 Jun 2019 10:57:31 GMT',
+'Etag': '"5cf609dc-3917"',
+'Last-Modified': 'Tue, 04 Jun 2019 06:04:12 GMT',
+'P3p': 'CP=" OTI DSP COR IVA OUR IND COM "',
+'Pragma': 'no-cache', 'Server': 'BWS/1.1',
+'Set-Cookie': 'BAIDUID=B1B5E4DF54CFF6CC5A8496772E9B1F66:FG=1; expires=Thu, 31-Dec-37 23:55:55 GMT; max-age=2147483647; path=/; domain=.baidu.com, BIDUPSID=B1B5E4DF54CFF6CC5A8496772E9B1F66; expires=Thu, 31-Dec-37 23:55:55 GMT; max-age=2147483647; path=/; domain=.baidu.com, PSTM=1560250651; expires=Thu, 31-Dec-37 23:55:55 GMT; max-age=2147483647; path=/; domain=.baidu.com',
+'Vary': 'Accept-Encoding',
+'X-Ua-Compatible': 'IE=Edge,chrome=1'})
